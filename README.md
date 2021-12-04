@@ -8,4 +8,4 @@
 * Работа с Figma;
 
 
-* [Ссылка на сайт](https://github.com/pnzdmd/russian-travel.git)
+* [Ссылка на сайт](https://pnzdmd.github.io/russian-travel/index.html)
