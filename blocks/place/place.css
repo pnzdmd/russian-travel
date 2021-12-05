@@ -2,7 +2,7 @@
   max-width: 984px;
   display: grid;
   grid-template-columns:minmax(min-content, 460px) minmax( min-content, 484px);
-  gap: 48px 48px;
+  gap: 48px 40px;
   margin: 0 0 80px;
 }
 .place:last-child {

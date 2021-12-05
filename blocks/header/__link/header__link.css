@@ -4,7 +4,7 @@
   grid-template-rows: min-content;
   grid-column-gap: 18px;
   list-style: none;
-  padding: 0;
+  padding: 0 0 5px;
   margin: 0;
   font-size: 24px;
   line-height: 28px;
@@ -14,5 +14,6 @@
   .header__link {
     font-size: 18px;
     line-height: 20px;
+    padding: 0 0 10px;
   }
 }
