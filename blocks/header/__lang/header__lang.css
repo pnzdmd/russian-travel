@@ -1,4 +1,4 @@
-.header__link {
+.header__lang {
   display: grid;
   grid-template-columns: repeat(2, min-content);
   grid-template-rows: min-content;
@@ -12,7 +12,7 @@
 }
 
 @media screen and (max-width: 425px) {
-  .header__link {
+  .header__lang {
     font-size: 18px;
     line-height: 20px;
     padding: 0 0 10px;
