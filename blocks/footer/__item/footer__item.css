@@ -1,14 +1,12 @@
 .footer__item {
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-  margin: 0;
-  padding: 0;
+  margin-right: 18px;
+}
+.footer__item:last-child {
+  margin-right: 0;
 }
 
-
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 568px) {
   .footer__item {
-    flex-direction: column;
+    margin-bottom: 32px;
   }
 }

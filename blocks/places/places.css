@@ -4,11 +4,8 @@
   padding: 0 48px;
 }
 
-
-
 @media screen and (max-width: 768px) {
   .places {
-    margin: 92px auto 0;
     padding: 0 24px;
   }
 }

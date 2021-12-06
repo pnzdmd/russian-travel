@@ -6,8 +6,8 @@
   font-weight: 400;
 }
 @font-face {
-  src: url(./inter/Inter-Bold.woff);
-  src: url(./inter/Inter-Bold.woff2);
+  src: url(./inter/Inter-Bold.woff),
+       url(./inter/Inter-Bold.woff2);
   font-family: 'Inter';
   font-style: normal;
   font-weight: 700;
